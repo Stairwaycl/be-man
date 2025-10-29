@@ -1,29 +1,20 @@
 ---
 layout: post
-title:  "Welcoe to Jekyll!"
+title:  "Un hombre se casa"
 date:   2025-10-28 03:53:45 -0300
-categories: jekyll update
+categories: matrimonio
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Este es el primer mapa conceptual en el que organizamos el estudio de conceptos de lo más general a lo más particular con respecto a _Qué es ser hombre_
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+<div style="border-radius: 8px; box-shadow: rgba(63, 69, 81, 0.16) 0px 2px 8px 0px; height: 0px; margin-bottom: 0.9em; margin-top: 1.6em; overflow: hidden; padding-bottom: 0px; padding-top: 100%; position: relative; width: 100%; will-change: transform;">
+  <iframe allow="fullscreen" allowfullscreen="allowfullscreen" loading="lazy" src="https://www.canva.com/design/DAGyy5lmbso/DH0_jg7E4B1dtqvIbQYmKQ/view?embed" style="border: none; height: 100%; left: 0; margin: 0; padding: 0; position: absolute; top: 0; width: 100%;">
+  </iframe>
+</div>
+<a href="https://www.canva.com/design/DAGyy5lmbso/DH0_jg7E4B1dtqvIbQYmKQ/view?utm_content=DAGyy5lmbso&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" rel="noopener" target="_blank">Estudio de Torá Ser Hombre</a>
 
-Jekyll also offers powerful support for code snippets:
+Iremos actualizando.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+### Recursos:
+"En el jardín de la paz solo para hombres" del Rab Shalom Arush
